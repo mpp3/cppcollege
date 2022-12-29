@@ -10,8 +10,8 @@ main:
   - name: Courses
     weight: 20
     identifier: courses
-  - name: Data science
-    PageRef: course/data-science/_index.md
+  - name: C++
+    PageRef: course/cpp/_index.md
     weight: 10
     parent: courses
   - name: Robotics

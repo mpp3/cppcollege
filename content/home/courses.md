@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Explore top courses
+title: Cursos
 subtitle:
 content:
   filters:
@@ -16,11 +16,11 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Courses
+    - name: Todos los Cursos
       tag: '*'
-    - name: Previous
+    - name: Anterior
       tag: previous
-    - name: Current
+    - name: Actual
       tag: current
 design:
   columns: '1'

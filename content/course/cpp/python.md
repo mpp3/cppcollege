@@ -1,6 +1,6 @@
 ---
-title: Python basics
-date: '2021-01-01'
+title: Programación usando C++
+date: '2023-01-01'
 type: book
 weight: 20
 ---
@@ -9,7 +9,7 @@ Build a foundation in Python.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+{{< icon name="clock" pack="fas" >}} 1-2 horas semanales, durante 8 semanas
 
 ## Learn
 
