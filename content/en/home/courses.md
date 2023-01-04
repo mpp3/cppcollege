@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Curses
+title: Courses
 subtitle:
 content:
   filters:
