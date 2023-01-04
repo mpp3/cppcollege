@@ -7,7 +7,7 @@ weight: 20
 
 ## Video class
 
-<video src="https://https://youtu.be/u-jeJWcaQHo>
+{{< youtube u-jeJWcaQHo >}}
 
 ## Exercises
 
@@ -64,7 +64,7 @@ The decimal logarithm of 100 is: 3
 
 ### Exercise 4
 Write a program that outputs this to the terminal:
-```bash
+```markdown
   / _ \
 \_\(_)/_/
  _//"\\_
@@ -98,7 +98,7 @@ int main()
 ### Exercise 6
 
 Write a program that writes this to the terminal:
-```bash
+```markdown
   /\
  //\\
 ///\\\
@@ -106,7 +106,7 @@ Write a program that writes this to the terminal:
 
 ### Exercise 3
 Write a program that writes this to the terminal, but with one sentence only:
-```bash
+```markdown
 H
 e
 l
@@ -119,7 +119,7 @@ o
 
 Write a program that writes this to the terminal:
 
-```bash
+```markdown
   __    __    _______  ___      ___        ______        __   __  ___     ______     _______   ___       ________
  /" |  | "\  /"     "||"  |    |"  |      /    " \      |"  |/  \|  "|   /    " \   /"      \ |"  |     |"      "\
 (:  (__)  :)(: ______)||  |    ||  |     // ____  \     |'  /    \:  |  // ____  \ |:        |||  |     (.  ___  :)
@@ -170,6 +170,7 @@ What's the behaviour of the program?
 Investigate a little what *flushing* the output means:
 
 https://stackoverflow.com/questions/60052408/c-why-does-this-code-only-work-when-using-n
+
 https://en.cppreference.com/w/cpp/io/manip/flush
 
 Then, try and fix the program so that it works as expected (with a one second delay between the output of every dot).
@@ -179,6 +180,7 @@ Then, try and fix the program so that it works as expected (with a one second de
 When you write decimal numbers to the terminal, how can you decide how many decimal digits to print?
 
 https://stackoverflow.com/questions/4217510/how-to-cout-the-correct-number-of-decimal-places-of-a-double-value
+
 https://en.cppreference.com/w/cpp/io/manip/setprecision
 
 Modify the next program so that it prints 10 digits after the decimal point:
