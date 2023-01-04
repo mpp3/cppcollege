@@ -2,7 +2,7 @@
 title: 📊 Aprende a programar usando C++
 linkTitle: Programación con C++
 summary: Curso de programación desde el principio, usando C++
-date: '2023-01-01'
+date: '2022-01-01'
 type: book
 tags:
   - current
