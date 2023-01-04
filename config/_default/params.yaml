@@ -60,8 +60,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    theme_light: monokailight
+    theme_dark: monokai
   math:
     enable: false
   privacy_pack:
